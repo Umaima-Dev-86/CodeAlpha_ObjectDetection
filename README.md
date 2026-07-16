@@ -1,2 +1,3 @@
 # CodeAlpha_ObjectDetection
 This project, completed during the CodeAlpha Artificial Intelligence Internship, implements a real-time computer vision system for object detection and tracking.
+The pipeline is set up to process real-time video input from a webcam or external video files using OpenCV. It leverages pre-trained state-of-the-art models, such as YOLO or Faster R-CNN, to perform object detection and draw bounding boxes around identified objects. Furthermore, the system applies robust tracking algorithms like SORT or Deep SORT to follow objects across frames and displays the final output with labels and unique tracking IDs in real time.
